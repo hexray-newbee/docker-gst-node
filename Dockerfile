@@ -1,4 +1,4 @@
-FROM dyhexl/gst-launch:1.14
+FROM dyhexl/gst-launch:v1.14
 
 # node:10
 RUN apt-get update \
